@@ -12,6 +12,29 @@
     height: 5rem;
 }
 .cuisines{
-    height: 25rem;
-    width: 23rem;
+
+    width: 50%;
+}
+.flexleft{
+    display: flex;
+}
+.flexright{
+    display: flex;
+    justify-content: right;
+}
+
+.alignright {
+    margin-left: 20px;
+}
+.alignleft {
+    margin-right: 20px;
+
+}
+.flex4 {
+    display: flex;
+    border: 2px solid black;
+    
+}
+#image {
+    height: 400px;
 }
