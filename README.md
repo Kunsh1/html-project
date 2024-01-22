@@ -1,1 +1,1 @@
-this is a project made by Kunsh and Pushkar
+This is a project made by Kunsh and Pushkar
